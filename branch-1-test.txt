@@ -1,1 +1,1 @@
-Dodanie funkcjinalnosci branch-1-test
+Dodanie funkcjinalnosci branch-1-test - konflikt
